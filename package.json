@@ -3,11 +3,40 @@
   "displayName": "save-as-zip",
   "description": "Save folders as zip files",
   "version": "0.0.1",
+  "publisher": "dreamcatcher45",
+  "homepage": "https://github.com/dreamcatcher45/save-as-zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamcatcher45/save-as-zip"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Other"
+  ],
+  "icon": "media/icon.png",
+  "tags": [
+    "save-as-zip",
+    "zip",
+    "compression",
+    "archive",
+    "folder-management",
+    "file-management",
+    "filesystem",
+    "utilities",
+    "productivity",
+    "explorer",
+    "workspace",
+    "developer-tools",
+    "file-compression",
+    "zip-archive",
+    "folder-compression",
+    "vscode-extension",
+    "file-utility",
+    "archiver",
+    "backup",
+    "export"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",
