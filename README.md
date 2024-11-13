@@ -30,7 +30,3 @@ That's it! Your folder will be zipped and ready to use.
 ## Support
 
 If you encounter any issues or have questions, please open an issue on our GitHub repository.
-
-## License
-
-MIT License
